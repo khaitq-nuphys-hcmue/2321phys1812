@@ -1,0 +1,5 @@
+print("Nhap diem mon Toan:"); t = float(input())
+print("Nhap diem mon Ly:"); l = float(input())
+print("Nhap diem mon Hoa:"); h = float(input())
+avg = round((t+l+h)/3, 2)
+print("Diem trung binh:", avg)
