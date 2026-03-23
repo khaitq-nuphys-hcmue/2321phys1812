@@ -5,8 +5,8 @@ Chào mừng bạn đến với repository lưu trữ tài liệu và các mã n
 *Tác giả: Trần Quang Khải - Khoa Vật lý - Trường Đại học Sư phạm Thành phố Hồ Chí Minh*
 
 Hướng dẫn truy cập các thư mục:
-- lectures: slide bài giảng
-- exercises: mã nguồn của các bài tập trong slide bài giảng
-- exams: đề thi và mã nguồn chương trình giải đề thi
+- **lectures**: slide bài giảng
+- **exercises**: mã nguồn của các bài tập trong slide bài giảng
+- **exams**: đề thi và mã nguồn chương trình giải đề thi
 
-Chúc các bạn học tốt! ^^
+Các bạn nên tải về repository này về máy và chạy thử các file .py trên máy tính hoặc trên nền tảng Google Colab để có được trải nghiệm tốt nhất. Chúc các bạn học tốt! ^^
