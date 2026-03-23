@@ -4,3 +4,9 @@ Chào mừng bạn đến với repository lưu trữ tài liệu và các mã n
 
 *Tác giả: Trần Quang Khải - Khoa Vật lý - Trường Đại học Sư phạm Thành phố Hồ Chí Minh*
 
+Hướng dẫn truy cập các thư mục:
+- lectures: slide bài giảng
+- exercises: mã nguồn của các bài tập trong slide bài giảng
+- exams: đề thi và mã nguồn chương trình giải đề thi
+
+Chúc các bạn học tốt! ^^
