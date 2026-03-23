@@ -7,6 +7,6 @@ Chào mừng bạn đến với repository lưu trữ tài liệu và các mã n
 Hướng dẫn truy cập các thư mục:
 - **lectures**: slide bài giảng
 - **exercises**: mã nguồn của các bài tập trong slide bài giảng
-- **exams**: đề thi và mã nguồn chương trình giải đề thi
+- **exams**: đề kiểm tra quá trình và mã nguồn chương trình giải các đề kiểm tra
 
-Các bạn nên tải về repository này về máy và chạy thử các file .py trên máy tính hoặc trên nền tảng Google Colab để có được trải nghiệm tốt nhất. Chúc các bạn học tốt! ^^
+Ngoài ra, ở thư mục chính còn có 2 file sách .pdf dành cho các bạn tham khảo. Các bạn nên tải về repository này về máy và chạy thử các file .py trên máy tính hoặc trên nền tảng Google Colab để có được trải nghiệm tốt nhất. Chúc các bạn học tốt! ^^
